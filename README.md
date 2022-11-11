@@ -36,4 +36,4 @@ Let's look at each element individually
 * `src/` contains the python package itself
 * `tests/` contains the tests of the python package
 
-adn error check
+add error check
