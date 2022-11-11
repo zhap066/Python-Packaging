@@ -2,7 +2,7 @@ from example_package.example import add_one
 import pytest
 
 
-def test_add_one_works():
+def test_add_one_work():
     " Check that the method work as expected"
     number = 1
     assert number + 1 == add_one(number)
@@ -14,4 +14,3 @@ def test_add_one_fails():
     with pytest.raises(TypeError):
         add_one(number)
 
-Making changes to test
