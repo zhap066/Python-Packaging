@@ -35,3 +35,5 @@ Let's look at each element individually
 * `.github/workflows/python_test.yml` contains a [YAML](https://yaml.org/) file which determined how github Action are run
 * `src/` contains the python package itself
 * `tests/` contains the tests of the python package
+
+Splling error check
