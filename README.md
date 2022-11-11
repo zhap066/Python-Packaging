@@ -50,5 +50,5 @@ NOTE: INFORMATION IN NOTEBOOK NO LONGER WORKS DUE TO UPDATE IN PIP. FOLLOWING ME
 3. python C:\Users\zhap066\AppData\Roaming\Python\Python38\Scripts\add_one.exe 2 #This can be any number, here I chose two. This will return 3
 >> 2.0 add one is 3.0
 
-4. add_one(2) #This will return the same as line 3, but from this point on in the code add_one() can be used as a shorthand. Must do the beggining section in order to use the function throughout
+4. add_one(2) #This will return the same as line 3, but from this point on in the code add_one() can be used as a shorthand. Must do the beginning section in order to use the function throughout
 >> 2.0 add one is 3.0
